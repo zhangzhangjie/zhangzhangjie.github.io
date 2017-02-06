@@ -15,10 +15,10 @@ body {
 .clear {
     -ms-zoom: 1;
 }
-li{
+.test li{
 	list-style: none;
 }
-a{
+.test  li a{
 	text-decoration: none;
 	color: #fff;
 }
