@@ -15,7 +15,13 @@ body {
 .clear {
     -ms-zoom: 1;
 }
-
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
 #myCanvas {
     position: absolute;
     display: block;
