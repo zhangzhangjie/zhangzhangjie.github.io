@@ -13,7 +13,7 @@ body {
 }
 
 .clear {
-    -ms-zoom: 1;
+    *zoom: 1;
 }
 .test li{
 	list-style: none;
