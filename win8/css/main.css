@@ -3,7 +3,10 @@ body {
     margin: 0;
     background: url(../images/background.jpg);
 }
-
+*{
+	margin: 0;
+	padding: 0;
+}
 .clear:after {
     content: "";
     overflow: hidden;
